@@ -31,6 +31,7 @@ class Email():
 # --- Lists --- #
 # Define empty inbox list.
 print("Changes")
+print("Whatever")
 inbox = []
 
 # --- Functions --- #
